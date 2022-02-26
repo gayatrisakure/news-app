@@ -1,0 +1,145 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Near-miss for pilot saved from downed plane",
+    "description": "Dramatic video shows the rescue, moments before collision, after a plane landed on train tracks.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59946362",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8287/production/_122651433_976ab.jpg",
+    "publishedAt": "2022-01-11T08:37:33.9516031Z",
+    "content": "Moments after a plane made an emergency landing on some train tracks, bystanders and police pulled the injured pilot out of the aircraft. Footage captures the approaching train and the moment the sin… [+241 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Antarctica: Invasive species 'hitchhiking' on ships",
+    "description": "Ships travelling to Antarctica could bring invasive species to the ocean’s last pristine ecosystem.",
+    "url": "http://www.bbc.co.uk/news/science-environment-59914729",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B542/production/_122620464_antarcticatourists.png",
+    "publishedAt": "2022-01-11T08:37:32.7643981Z",
+    "content": "By Victoria GillScience correspondent, BBC News\r\nImage source, Victoria Gill\r\nSpecies from around the world that are \"hitching a lift\" on ships threaten Antarctica's pristine marine ecosystem. \r\nThat… [+4666 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Covid: PM under pressure over further Downing Street lockdown gathering",
+    "description": "Witnesses say Boris Johnson and his wife were among 30 people who attended the event on 20 May 2020.",
+    "url": "http://www.bbc.co.uk/news/live/uk-59948846",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2022-01-11T08:37:27.5625675Z",
+    "content": "\"Is this for real?\"\r\nThat might be your reaction to what we know now - that one of Boris Johnson's most senior aides emailed around 100 staff in Downing Street for outdoor drinks in May 2020, during … [+1084 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "100 invited to Downing Street garden lockdown drinks",
+    "description": "The Met Police have contacted the government over a gathering said to have been attended by the PM.",
+    "url": "http://www.bbc.co.uk/news/uk-politics-59930733",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CAFC/production/_122646915_boris_johnson_1_getty.jpg",
+    "publishedAt": "2022-01-11T08:22:23.2935072Z",
+    "content": "Image source, Getty Images\r\nAs many as 100 people were invited to a \"bring-your-own-booze\" drinks event in the Downing Street garden during the first lockdown, it is understood.\r\nWitnesses have told … [+8537 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Covid PCR tests end for asymptomatic cases in England",
+    "description": "A positive lateral flow result can now be taken as a first and final confirmation that you have Covid.",
+    "url": "http://www.bbc.co.uk/news/uk-59944057",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/63F0/production/_122648552_gettyimages-1362882266.jpg",
+    "publishedAt": "2022-01-11T07:52:22.636581Z",
+    "content": "Image source, Getty Images\r\nImage caption, A positive lateral flow result can be taken as a confirmation that you have Covid if you have no symptoms, the UK Health Security Agency says\r\nPeople withou… [+3514 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "David Sassoli: European Parliament president dies aged 65",
+    "description": "It comes after the centre-left politician was admitted to hospital due to a serious complication with his immune system.",
+    "url": "http://www.bbc.co.uk/news/world-europe-59947211",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C26/production/_122649491_tv072652935.jpg",
+    "publishedAt": "2022-01-11T04:52:21.6802328Z",
+    "content": "Image caption, The centre-left politician and former journalist became European Parliament president in 2019\r\nEuropean Parliament President David Sassoli has died at the age of 65, his spokesman says… [+1397 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Djokovic saga 'damaging', says ATP",
+    "description": "The controversy over Novak Djokovic's visa to enter Australia has been \"damaging on all fronts\", says the ATP.",
+    "url": "http://www.bbc.co.uk/sport/tennis/59944701",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/157B0/production/_122648978_hi072968768.jpg",
+    "publishedAt": "2022-01-11T00:52:25.1165856Z",
+    "content": "Djokovic has won a record nine men's Australian Open titles\r\nThe controversy over Novak Djokovic's Australian visa application has been \"damaging on all fronts\", the men's professional tennis tour ha… [+4068 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Afghanistan's cold and bitter hunger",
+    "description": "The UN has called for urgent aid as a million Afghan children are are at risk from severe malnourishment.",
+    "url": "http://www.bbc.co.uk/news/world-asia-59942993",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6DBE/production/_122649082_p0bggl2z.jpg",
+    "publishedAt": "2022-01-11T00:22:19.0720137Z",
+    "content": "The start of a harsh winter is accelerating Afghanistans humanitarian crisis. Since the Talibans arrival, and international sanctions, the economy has gone into freefall.\r\nThe collapse of the previou… [+395 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Timed Teaser: What did Pope say about parenting?",
+    "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59938530",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/226E/production/_122641880_index-pic.jpg",
+    "publishedAt": "2022-01-10T23:07:24.1550717Z",
+    "content": "Test your news knowledge against the clock. Can you outscore your friends?\r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser. Or take Friday's quiz of the … [+75 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Man gets genetically-modified pig heart in world-first transplant",
+    "description": "David Bennett, 57, is doing well three days after surgery, doctors in Baltimore, Maryland, say.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59944889",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C85E/production/_122649215_4f61f140-dec7-45bb-9f49-26492c2062b8.jpg",
+    "publishedAt": "2022-01-10T23:07:22.0774645Z",
+    "content": "Image source, University of Maryland School of Medicine\r\nImage caption, Surgeon Bartley P. Griffith pictured with David Bennett earlier this month\r\nA US man has become the first person in the world t… [+2435 chars]"
+    }
+  ]
+}
+
+
+<Route path="/business"><News pageSize={5} country="in" category="general" /></Route>
+<Route path="/entertainment"><News pageSize={5} country="in" category="general" /></Route>
+<Route path="/general"><News pageSize={5} country="in" category="general" /></Route>
+<Route path="/health"><News pageSize={5} country="in" category="general" /></Route>
+<Route path="/science"><News pageSize={5} country="in" category="general" /></Route>
+<Route path="/sports"><News pageSize={5} country="in" category="general" /></Route>
+<Route path="/technology"><News pageSize={5} country="in" category="general" /></Route>
